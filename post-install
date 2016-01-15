@@ -1,0 +1,2 @@
+chown openresty:openresty /var/log/openresty
+chmod 750 /var/log/openresty
